@@ -5,12 +5,12 @@
   <Name>EmbyServerUnlocked</Name>
   <Description>
     Emby Server is a home media server built on top of other popular open source technologies such as Service Stack, jQuery, jQuery mobile, and Mono. Bringing together movies, music, television and more in one dazzling interface.[br][br]
-	Emby Server Unlocked is Emby with Emby Premiere features unlocked.
+	Emby Server Unlocked is Emby with Emby Premiere features unlocked.[br][br]
     [b][span style='color: #E80000;']Directions:[/span][/b][br]
     [b]/config[/b] : set this path to where you wish MediaBrowser to store it's configuration.[br]
     [b]/mnt[/b] : this path is used to add library locations to MediaBrowser.[br]
   </Description>
-  <Registry>https://hub.docker.com/r/nvllsvm/emby-unlocked/</Registry>
+  <Registry>https://registry.hub.docker.com/u/nvllsvm/emby-unlocked/</Registry>
   <GitHub>https://github.com/nvllsvm/docker-emby-unlocked</GitHub>
   <Repository>nvllsvm/docker-emby-unlocked</Repository>
   <BindTime>true</BindTime>
