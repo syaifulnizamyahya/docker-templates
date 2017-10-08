@@ -12,7 +12,7 @@
   </Description>
   <Registry>https://registry.hub.docker.com/u/nvllsvm/emby-unlocked/</Registry>
   <GitHub>https://github.com/nvllsvm/docker-emby-unlocked</GitHub>
-  <Repository>nvllsvm/docker-emby-unlocked</Repository>
+  <Repository>nvllsvm/emby-unlocked</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment>
